@@ -55,44 +55,20 @@ sidebar:
 career-profile:
     title: Basic Information
     summary: |
-      I am presently 26 years of age, born in June 1997 in Yulin City, located in Shaanxi Province, China. I am pursuing a Doctoral degree in Materials Science and Engneering at Xi'an Jiaotong University. My primary research focus lies in investigating material phase transitions and deformations through computational simulations, with a particular emphasis on phase transformation under extreme conditions. With a passion for innovation, my academic journey reflects a dedicated exploration of the exciting convergence between materials science and AI-driven computational research.
+      I am presently 26 years of age, born in June 1997 in Yulin City, located in Shaanxi Province, China. I am pursuing a Doctoral degree in Materials Science and Engneering at Xi'an Jiaotong University. My primary research focus lies in investigating material phase transitions and deformations through computational simulations, with a particular emphasis on phase transformations under extreme conditions. With a passion for innovation, my academic journey reflects a dedicated exploration of the exciting convergence between materials science and AI-driven computational research.
 education:
     title: Education
     info:
-      - degree: Bachelor of Materials Science
-        university: Chang'an University
-        time: 2015 - 2019
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: Master of Materials Science
-        university: Xi'an Jiaotong University
-        time: 2019 - 2021
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
       - degree: Doctor of Materials Science
         university: Xi'an Jiaotong University
         time: 2021 - now
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+      - degree: Master of Materials Science
+        university: Xi'an Jiaotong University
+        time: 2019 - 2021
+      - degree: Bachelor of Materials Science
+        university: Chang'an University
+        time: 2015 - 2019
+        
 experiences:
     title: Experiences
     info:
