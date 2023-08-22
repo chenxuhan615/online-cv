@@ -10,21 +10,21 @@ sidebar:
     # Profile information
     name: Chenxu Han
     tagline: PhD Candidate
-    avatar: 6.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: 7.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: hanchenxu@stu.xjtu.edu.cn
     phone: +86 13636705907
     timezone: China/Beijin Timezone
     citizenship:
-    website: chenxuhan615.github.io/online-cv #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: hanchenxu.top #do not add http://
+    linkedin:
+    xing:
+    github: chenxuhan615
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: #'@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
