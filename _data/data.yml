@@ -105,24 +105,12 @@ experiences:
         time: 2019 - 2021
         company: Xi'an Jiaotong University, Xi'an City
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          During my master's studies, I delved into computational simulations, encompassing first principles and molecular dynamics. Additionally, I acquired knowledge in computational learning algorithms and neural network construction.I have built a machine learning potential model based on Graph Convolutional Neural Networks, thereby achieving multi-scale simulations.
       - role: Undergraduate Student 
         time: 2015 - 2019
         company: Chang'an University, Xi'an City
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          I have earned a bachelor's degree in Engineering, majoring in Inorganic Non-metallic Materials. My undergraduate thesis focused on the experimental preparation and characterization of ZnO fluorescent quantum dots, with the goal of achieving functional specificity in recognizing certain polymer functional groups.
 
 certifications:
       title: Certifications
