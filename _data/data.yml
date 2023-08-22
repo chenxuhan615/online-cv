@@ -55,11 +55,9 @@ sidebar:
 career-profile:
     title: Basic Information
     summary: |
-    
     Welcome to Mr. Han Chenxu's personal webpage!
     "Han" is my last name, and "Chenxu" is my first name. Please feel free to call me Chenxu. 
     Below are some of my basic details~
-    
     Date of Birth ---------- 25/06/1997
     Country of Birth ------- China
     Nationality ------------ Chinese
@@ -68,7 +66,6 @@ career-profile:
     Languages -------------- Mandarin Chinese (Native), English (Second Language)
     Disability ------------- No Known Disabilities
     Criminal Convictions --- None
-
     I am presently 26 years of age, born in June 1997 in Yulin City, located in Shaanxi Province, China. I am pursuing a Doctoral degree in Materials Science and Engneering at Xi'an Jiaotong University. My primary research focus lies in investigating material phase transitions and deformations through computational simulations, with a particular emphasis on phase transformations under extreme conditions. With a passion for innovation, my academic journey reflects a dedicated exploration of the exciting convergence between materials science and AI-driven computational research.
 education:
     title: Education
