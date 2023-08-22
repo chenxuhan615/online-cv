@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -14,10 +14,10 @@ sidebar:
 
     # Sidebar links
     email: hanchenxu@stu.xjtu.edu.cn
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    phone: +86 13636705907
+    timezone: China/Beijin Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: chenxuhan615.github.io/online-cv #do not add http://
     linkedin: alandoe
     xing: alandoe
     github: sharu725
