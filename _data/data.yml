@@ -17,7 +17,7 @@ sidebar:
     phone: (+86)13636705907
     timezone: China/Beijing Timezone
     citizenship:
-    website: hanchenxu.online #do not add http://
+    website: online-cv.chenxuhan.online #do not add http://
     linkedin:
     xing:
     github: chenxuhan615
@@ -58,13 +58,13 @@ career-profile:
       Welcome to Mr Chenxu Han's personal webpage. Han is my surname, and Chenxu is my forename. Please feel free to call me Chenxu. Below are some of my basic details:
 
       
-        - Date of Birth ------------ 25/06/1997
-        - Height -------------------- 176 cm (about 5'9")
-        - Country of Birth ------- China
+        - Date of Birth ----------- 25/06/1997
+        - Height ------------------- 176 cm (about 5'9")
+        - Country of Birth ------ China
         - Nationality -------------- Chinese
         - Ethnicity ----------------- Chinese
         - Religious Affiliation --- None
-        - Languages -------------- Mandarin Chinese (Native), English (Second Language)
+        - Languages --------------- Mandarin Chinese (Native), English (Second Language)
         - Disability ---------------- No Known Disabilities
         - Criminal Convictions -- None
         
@@ -75,7 +75,7 @@ education:
     info:
       - degree: Doctor of Materials Science
         university: Xi'an Jiaotong University
-        time: 2021 - now
+        time: 2021 - Present
       - degree: Master of Materials Science
         university: Xi'an Jiaotong University
         time: 2019 - 2021
