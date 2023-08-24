@@ -142,14 +142,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: ML Potential
+      - name: ML-Potential/DPMD
         level: 98%
 
       - name: LAMMPS
         level: 98%
 
       - name: VASP
-        level: 98%
+        level: 96%
 
       - name: C++/Python/MatLab
         level: 95%
