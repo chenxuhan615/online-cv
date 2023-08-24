@@ -74,13 +74,13 @@ education:
     title: Education
     info:
       - degree: Doctor of Materials Science
-        university: Xi'an Jiaotong University
+        university: [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
         time: 2021 - Present
       - degree: Master of Materials Science
-        university: Xi'an Jiaotong University
+        university: [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
         time: 2019 - 2021
       - degree: Bachelor of Materials Science
-        university: Chang'an University
+        university: [Chang'an University](https://en.chd.edu.cn/)
         time: 2015 - 2019
         
 experiences:
@@ -88,19 +88,19 @@ experiences:
     info:
       - role: PhD Student
         time: 2021 - Present
-        company: Xi'an Jiaotong University, Xi'an City
+        company: [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an City
         details: |
           After commencing my doctoral studies, my interests shifted towards material phase transitions and deformations under extreme conditions. I intend to leverage the previously established machine learning potential model to address real-world challenges within the realm of materials.
             - Received Campus Excellent Postgraduate Award for 2021-2022 academic year
       - role: Master Student
         time: 2019 - 2021
-        company: Xi'an Jiaotong University, Xi'an City
+        company: [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an City
         details: |
           During my master's studies, I delved into computational simulations, encompassing first principles and molecular dynamics. Additionally, I acquired knowledge in computational learning algorithms and neural network construction. Furthermore, I achieved a GPA of 3.88, ranking first in my class. I have built a machine learning potential model based on Graph Convolutional Neural Networks ([Click here to view more details](https://github.com/chenxuhan615/gcnff)), thereby achieving multi-scale simulations.
             - Received Campus Excellent Postgraduate Award for 2019-2020 academic year
       - role: Undergraduate Student 
         time: 2015 - 2019
-        company: Chang'an University, Xi'an City
+        company: [Chang'an University](https://en.chd.edu.cn/), Xi'an City
         details: |
           I have earned a bachelor's degree in Engineering, majoring in Inorganic Non-metallic Materials. My undergraduate thesis focused on the experimental preparation and characterization of ZnO fluorescent quantum dots, with the goal of achieving functional specificity in recognizing certain polymer functional groups.
 
