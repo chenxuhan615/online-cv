@@ -142,23 +142,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: ML Potential
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: LAMMPS
         level: 98%
 
-      - name: Angular
+      - name: VASP
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Programming(C++,Python,MatLab)
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://online-cv.chenxuhan.online/" target="_blank" rel="nofollow">Chenxu Han</a>
