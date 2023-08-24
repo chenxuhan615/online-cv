@@ -90,20 +90,19 @@ experiences:
         time: 2021 - Present
         company: Xi'an Jiaotong University, Xi'an City
         details: |
-          After commencing my doctoral studies, my interests shifted towards material phase transitions and deformations under extreme conditions. I intend to leverage the previously established machine learning potential model to address real-world challenges within the realm of materials.
-            - Received [Campus Excellent Postgraduate Award](https://github.com/chenxuhan615/online-cv/blob/b7ca9b721754e8f817fe7cbadd3ed70f431eb1c0/assets/images/honor2.jpg) for 2021-2022 academic year
+          Upon commencing doctoral studies, my academic interests were drawn to the realm of phase transitions and deformations under extreme conditions. I directed particular attention towards phenomena like liquid-liquid phase transitions and glass transitions. I am dedicated to elucidating the fundamental physical principles governing these intricate phenomena by crafting a machine learning potential for a specific material. This endeavor, in its turn, will streamline the accomplishment of large-scale, high-precision molecular dynamics simulations.
+            - Received [Campus Excellent Postgraduate Honor](https://github.com/chenxuhan615/online-cv/blob/b7ca9b721754e8f817fe7cbadd3ed70f431eb1c0/assets/images/honor2.jpg) for 2021-2022 academic year
       - role: Master Student
         time: 2019 - 2021
         company: Xi'an Jiaotong University, Xi'an City
         details: |
-          During my master's studies, I delved into computational simulations, encompassing first principles and molecular dynamics. Additionally, I acquired knowledge in computational learning algorithms and neural network construction. Furthermore, I achieved a [GPA](https://github.com/chenxuhan615/online-cv/blob/b7ca9b721754e8f817fe7cbadd3ed70f431eb1c0/assets/images/gpa.jpg) of 3.88, ranking first in my class. I have built a machine learning potential model based on Graph Convolutional Neural Networks ([Click here to view more details](https://github.com/chenxuhan615/gcnff)), thereby achieving multi-scale simulations.
-            - Received [Campus Excellent Postgraduate Award](https://github.com/chenxuhan615/online-cv/blob/b7ca9b721754e8f817fe7cbadd3ed70f431eb1c0/assets/images/honor1.jpg) for 2019-2020 academic year
+          During my master's studies, I extensively explored computational simulation methods, encompassing both first-principles and molecular dynamics. In addition, I acquired knowledge in the realm of machine learning algorithms and neural network construction. Moreover, I conceived and developed a machine learning potential model based on graph convolutional neural networks, details of which can be found [here](https://github.com/chenxuhan615/gcnff). This innovation enabled the achievement of cross-scale simulations devoid of the necessity for artificially constructed descriptors. By the way, I achieved a [GPA of 3.88](https://github.com/chenxuhan615/online-cv/blob/b7ca9b721754e8f817fe7cbadd3ed70f431eb1c0/assets/images/gpa.jpg), ranking first in my class.
+            - Received [Campus Excellent Postgraduate Honor](https://github.com/chenxuhan615/online-cv/blob/b7ca9b721754e8f817fe7cbadd3ed70f431eb1c0/assets/images/honor1.jpg) for 2019-2020 academic year
       - role: Undergraduate Student 
         time: 2015 - 2019
         company: Chang'an University, Xi'an City
         details: |
-          I have earned a bachelor's degree in Engineering, majoring in Inorganic Non-metallic Materials. My undergraduate thesis focused on the experimental preparation and characterization of ZnO fluorescent quantum dots, with the goal of achieving functional specificity in recognizing certain polymer functional groups.
-
+          I have earned a bachelor’s degree in Engineering, majoring in Inorganic Non-metallic Materials. My undergraduate thesis revolved around the experimental synthesis and characterization of ZnO fluorescent quantum dots, with the goal of achieving functional specificity in the identification of certain polymer functional groups. This work has practical applications in the detection of pesticide residues.
 certifications:
       title: Certifications
       list:
