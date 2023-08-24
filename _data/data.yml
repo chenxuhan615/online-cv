@@ -103,10 +103,6 @@ experiences:
         company: Chang'an University, Xi'an City
         details: |
           I have earned a bachelor’s degree in Engineering, majoring in Inorganic Non-metallic Materials. My undergraduate thesis revolved around the experimental synthesis and characterization of ZnO fluorescent quantum dots, with the goal of achieving functional specificity in the identification of certain polymer functional groups. This work has practical applications in the detection of pesticide residues.
-projects:
-    title: Language Proficiency
-    intro: >
-      I achieved an overall score of 6.5 on the IELTS Academic exam, with individual scores of 6.5 in Listening, 6.0 in Speaking, 7.5 in Reading, and 6.0 in Writing. The exam was taken on June 24, 2023. For detailed results, please click [here](https://github.com/chenxuhan615/online-cv/blob/f7616ab5ad3ca4ce7a97f32244d1eed1c5aeb50b/assets/images/ielts1.jpg) to view the official score report.
 
 publications:
     title: Publications
@@ -127,6 +123,11 @@ publications:
         link: "https://pdfs.semanticscholar.org/1d88/daccd508e94b37eca4a6befc59a46a311f8a.pdf"
         authors: Yang Yang, Long Zhao, Chenxu Han, Xiangdong Ding, Turab Lookman, et al.
         conference: "Journal of Materials Informatics, 1(2): 10, 2021"
+        
+projects:
+    title: Language Proficiency
+    details: |
+      I achieved an overall score of 6.5 on the IELTS Academic exam, with individual scores of 6.5 in Listening, 6.0 in Speaking, 7.5 in Reading, and 6.0 in Writing. The exam was taken on June 24, 2023. For detailed results, please click [here](https://github.com/chenxuhan615/online-cv/blob/f7616ab5ad3ca4ce7a97f32244d1eed1c5aeb50b/assets/images/ielts1.jpg) to view the official score report.
 
 skills:
     title: Skills &amp; Proficiency
