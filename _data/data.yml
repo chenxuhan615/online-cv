@@ -74,13 +74,13 @@ education:
     title: Education
     info:
       - degree: Doctor of Materials Science
-        university: [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
+        university: Xi'an Jiaotong University
         time: 2021 - Present
       - degree: Master of Materials Science
-        university: [Xi'an Jiaotong University](http://en.xjtu.edu.cn/)
+        university: Xi'an Jiaotong University
         time: 2019 - 2021
       - degree: Bachelor of Materials Science
-        university: [Chang'an University](https://en.chd.edu.cn/)
+        university: Chang'an University
         time: 2015 - 2019
         
 experiences:
