@@ -124,10 +124,19 @@ publications:
         authors: Yang Yang, Long Zhao, Chenxu Han, Xiangdong Ding, Turab Lookman, et al.
         conference: "Journal of Materials Informatics, 1(2): 10, 2021"
         
-projects:
-    title: Language Proficiency
-    details: |
-      I achieved an overall score of 6.5 on the IELTS Academic exam, with individual scores of 6.5 in Listening, 6.0 in Speaking, 7.5 in Reading, and 6.0 in Writing. The exam was taken on June 24, 2023. For detailed results, please click [here](https://github.com/chenxuhan615/online-cv/blob/f7616ab5ad3ca4ce7a97f32244d1eed1c5aeb50b/assets/images/ielts1.jpg) to view the official score report.
+certifications:
+      title: Language Proficiency
+      list:
+        - name: IELTS score
+          start: 24/06/2023
+          end: 
+          organization: 
+          credentialid: 6.5
+          credentialurl: 
+          credentialname: 
+          details: |
+            I achieved an overall score of 6.5 on the IELTS Academic exam, with individual scores of 6.5 in Listening, 6.0 in Speaking, 7.5 in Reading, and 6.0 in Writing. The exam was taken on June 24, 2023. For detailed results, please click [here](https://github.com/chenxuhan615/online-cv/blob/f7616ab5ad3ca4ce7a97f32244d1eed1c5aeb50b/assets/images/ielts1.jpg) to view the official score report.
+
 
 skills:
     title: Skills &amp; Proficiency
