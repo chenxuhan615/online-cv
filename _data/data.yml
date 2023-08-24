@@ -113,17 +113,17 @@ publications:
     intro: |
       List of my publications：
     papers:
-      - title: Identifying the activity origin of a cobalt single-atom catalyst for hydrogen evolution using supervised learning
+      - title: "Identifying the activity origin of a cobalt single-atom catalyst for hydrogen evolution using supervised learning"
         link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100547"
         authors: Xinghui Liu, Lirong Zheng, Chenxu Han, Hongxiang Zong, Guang Yang, et al.
-        conference: Advanced Functional Materials, 31(18): 2100547, 2021
+        conference: "Advanced Functional Materials, 31(18): 2100547, 2021"
 
       - title: "Unveiling the grain boundary-related effects on the incipient plasticity and dislocation behavior in nanocrystalline CrCoNi medium-entropy alloy"
         link: "https://www.sciencedirect.com/science/article/abs/pii/S1005030222003358"
         authors: Shuo Sun, Yang Yang, Chenxu Han, Guixun Sun, Yan Chen, et al.
         conference: "Journal of Materials Science & Technology, 127: 98-107, 2022"
 
-      - title: Taking materials dynamics to new extremes using machine learning interatomic potentials
+      - title: "Taking materials dynamics to new extremes using machine learning interatomic potentials"
         link: "https://pdfs.semanticscholar.org/1d88/daccd508e94b37eca4a6befc59a46a311f8a.pdf"
         authors: Yang Yang, Long Zhao, Chenxu Han, Xiangdong Ding, Turab Lookman, et al.
         conference: "Journal of Materials Informatics, 1(2): 10, 2021"
