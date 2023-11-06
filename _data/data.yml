@@ -112,6 +112,11 @@ publications:
     intro: |
       List of my publications：
     papers:
+      - title: "Influence of interfacial dislocation network on strain-rate sensitivity in Ni-based single crystal superalloys"
+        link: "https://www.sciencedirect.com/science/article/abs/pii/S1359646223005596"
+        authors: Xuanzhe Li, Chenxu Han, Xiaodai Yue, Suzhi Li, Jiarong Li, et al.
+        conference: "Scripta Materialia, 240: 115838, 2024"
+        
       - title: "Identifying the activity origin of a cobalt single-atom catalyst for hydrogen evolution using supervised learning"
         link: "https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202100547"
         authors: Xinghui Liu, Lirong Zheng, Chenxu Han, Hongxiang Zong, Guang Yang, et al.
